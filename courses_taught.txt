@@ -1,0 +1,27 @@
+{
+    "Richard Anderson ": [],
+    "Ruth Anderson": [
+        "CSE 332: Data Structures & Parallelism",
+        "CSE 391: System and Software Tools",
+        "CSE 160: Data Programming",
+        "CSE 351: The Hardware/Software Interface",
+        "CSE General TA Training",
+        "CSE 590E: Computer Science Education Seminar"
+    ],
+    "Yejin Choi": [],
+    "Dieter Fox ": [],
+    "Dan Grossman": [],
+    "Jeffrey Heer": [],
+    "Justin Hsia": [
+        "Teaching content not found."
+    ],
+    "Tadayoshi Kohno (aka Yoshi Kohno)": [],
+    "Shayan Oveis Gharan's homepage": [],
+    "Anup Rao ": [],
+    "No Name": [],
+    "Linda Shapiro": [],
+    "Joshua Smith ": [],
+    "Stefano Tessaro": [],
+    "Emina Torlak": [],
+    "James R. Wilcox": []
+}

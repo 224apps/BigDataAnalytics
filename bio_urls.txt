@@ -1,0 +1,18 @@
+{
+    "Richard Anderson ": "https://www.cs.washington.edu/people/faculty/anderson/",
+    "Ruth Anderson": "http://homes.cs.washington.edu/~rea",
+    "Yejin Choi": "http://homes.cs.washington.edu/~yejin/",
+    "Dieter Fox ": "http://homes.cs.washington.edu/~fox",
+    "Dan Grossman": "http://homes.cs.washington.edu/~djg/",
+    "Jeffrey Heer": "http://homes.cs.washington.edu/~jheer/",
+    "Justin Hsia": "http://homes.cs.washington.edu/~jhsia/",
+    "Tadayoshi Kohno (aka Yoshi Kohno)": "http://homes.cs.washington.edu/~yoshi/",
+    "Shayan Oveis Gharan's homepage": "http://homes.cs.washington.edu/~shayan/",
+    "Anup Rao ": "https://www.cs.washington.edu/people/faculty/anuprao/",
+    "No Name": "http://homes.cs.washington.edu/~seitz/",
+    "Linda Shapiro": "http://homes.cs.washington.edu/~shapiro/",
+    "Joshua Smith ": "https://www.cs.washington.edu/people/faculty/jrs/",
+    "Stefano Tessaro": "http://homes.cs.washington.edu/~tessaro/",
+    "Emina Torlak": "http://homes.cs.washington.edu/~emina/",
+    "James R. Wilcox": "http://homes.cs.washington.edu/~jrw12/"
+}
