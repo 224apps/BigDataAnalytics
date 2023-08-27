@@ -2,7 +2,7 @@
     "Richard Anderson ": "Biography content not found.",
     "Ruth Anderson": "Biography section not found.",
     "Yejin Choi": "Biography section not found.",
-    "Dieter Fox ": "Biography section not found.",
+    "Dieter Fox \u2013 Homepage of Dieter Fox, Professor of Computer Science & Engineering": "Biography section not found.",
     "Dan Grossman": "Biography section not found.",
     "Jeffrey Heer": "Biography section not found.",
     "Justin Hsia": "Biography section not found.",

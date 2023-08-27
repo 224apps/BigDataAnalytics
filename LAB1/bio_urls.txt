@@ -2,7 +2,7 @@
     "Richard Anderson ": "https://www.cs.washington.edu/people/faculty/anderson/",
     "Ruth Anderson": "http://homes.cs.washington.edu/~rea",
     "Yejin Choi": "http://homes.cs.washington.edu/~yejin/",
-    "Dieter Fox ": "http://homes.cs.washington.edu/~fox",
+    "Dieter Fox \u2013 Homepage of Dieter Fox, Professor of Computer Science & Engineering": "http://homes.cs.washington.edu/~fox",
     "Dan Grossman": "http://homes.cs.washington.edu/~djg/",
     "Jeffrey Heer": "http://homes.cs.washington.edu/~jheer/",
     "Justin Hsia": "http://homes.cs.washington.edu/~jhsia/",

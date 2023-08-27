@@ -9,7 +9,7 @@
         "CSE 590E: Computer Science Education Seminar"
     ],
     "Yejin Choi": [],
-    "Dieter Fox ": [],
+    "Dieter Fox \u2013 Homepage of Dieter Fox, Professor of Computer Science & Engineering": [],
     "Dan Grossman": [],
     "Jeffrey Heer": [],
     "Justin Hsia": [
